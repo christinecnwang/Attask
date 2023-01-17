@@ -20,6 +20,13 @@
       "time": "",
       "reminder": true,
       "id": 4
+    },
+    {
+      "text": "test",
+      "day": "",
+      "time": "",
+      "reminder": false,
+      "id": 5
     }
   ]
 }
