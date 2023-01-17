@@ -6,7 +6,7 @@ const Header = ({ title, onAdd, showAdd }) => {
   const location = useLocation();
 
   return (
-    <header className="header">
+    <header className='header'>
       <h1>{title}</h1>
       {location.pathname === "/" && (
         <Button
@@ -20,7 +20,7 @@ const Header = ({ title, onAdd, showAdd }) => {
 };
 
 Header.defaultProps = {
-  title: "Task Tracker",
+  title: "Attask",
 };
 
 Header.propTypes = {

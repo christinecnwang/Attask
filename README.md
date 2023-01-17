@@ -1,4 +1,4 @@
-# Task Tracker
+# Attask
 
 Web application that uses React to build a responsive web page that allows you to keep track of your tasks with the ability to add, edit, and set reminders.
 
@@ -6,14 +6,14 @@ First, start the JSON server by visiting https://spotless-important-situation.gl
 
 Visit https://fan-cooked-utensil.glitch.me to use this application and add/delete your own tasks.
 
-![task tracker](https://user-images.githubusercontent.com/96750529/212836558-98e15c99-7aad-490a-b9cf-60d0125ce891.png)
+![Attask](https://user-images.githubusercontent.com/96750529/212845255-18689bad-6ada-4259-a991-fff00135e1c5.png)
 
 ### Installing and Starting
 
 ###### Clone This Repo
 
 ```
-git clone https://github.com/christinecnwang/Task-Tracker.git
+git clone https://github.com/christinecnwang/Attask.git
 ```
 
 ###### Install Dependencies
