@@ -1,6 +1,6 @@
 # Attask
 
-Web application that uses React to build a responsive web page that allows you to keep track of your tasks with the ability to add, edit, and set reminders.
+Responsive React web application that allows you to keep track of your tasks with the ability to add, edit, and set reminders.
 
 First, start the JSON server by visiting https://spotless-important-situation.glitch.me/.
 
